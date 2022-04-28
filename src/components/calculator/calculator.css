@@ -1,0 +1,10 @@
+.calcCard {
+    margin: 4rem;
+    width: 100% !important;
+    border-radius: 1rem;
+}
+.mainRow{
+    background-color: #ccc;
+    min-height: 100vh;
+    width: 100% !important;
+}
